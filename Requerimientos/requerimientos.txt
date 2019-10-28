@@ -14,7 +14,9 @@ Requerimientos Funcionales:
 13. Data center en el primer nivel (tabla).
 14. Para cada recepción de cada piso, otorgar acceso a las recepcionistas al data center
 15. Cada sala de operaciones debe contar con camaras de alta resolucion que permita conexion desde las universidades.
-16. 15 equipos de telepresencia: 9 en salas de operaciones y 6 en salas de conferencias
+16. Equipo de Telepresencia: 9 para en salas de operaciones y 6 en salas de conferencias
+	16.1 Cotizar
+	16.2 Ver si la red es apta para soportar transmisión de alta resolución en tiempo real
 17. Definir si utilizar switches de 1GB en cobre o 10GB en fibra. JUSTIFICAR
 18. Esquema de direccionamiento IPv4 pero se considerará esquema de direccionamiento IPv6. Discutar y decidir qué hacer para dejar planificado dicho esquema de direccionamiento IPv6
 19. Cotizacion de equipos e instalacion.

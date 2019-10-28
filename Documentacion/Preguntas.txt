@@ -1,0 +1,59 @@
+* Pregunta 1:
+	- ¿Cuáles son los requerimientos del Hospital John Hopkins en Guatemala?
+	  Ver archivo requerimientos.txt
+
+	- ¿Será que los equipos de telepresencia imponen algún requerimiento?
+	  Sí, ver si la red puede soportar la transmisión en tiempo real y eso implica que hay que conseguir equipo de buena calidad.
+
+
+* Pregunta 2:
+	- ¿Existe alguna restricción en cuanto a costos?
+	  No
+
+	- Elaborar tabla de costs del proyecto:
+		> Costo de equipo
+		> Costo de infraestructura de red
+		> Costo de cableado
+		> Costo de certificación de puntos
+		> Costo de implementación
+
+* Pregunta 3:
+	- ¿Cuáles son los requerimientos técnicos del proyecto?
+	  Ver requerimientos.txt
+
+	- ¿Cómo abordan cada requerimiento?
+
+
+* Pregunta 4:
+	- ¿Existe alguna limitante del proyecto?
+
+* Pregunta 5:
+	- Hacer una lista detallada de todos los equipos (activos + pasivos) que se propone
+
+* Pregunta 6:
+	- Hacer una estimación de cantidad de cable categoría 6 (o superior) que se utilizará
+
+* Pregunta 7:
+	- Realizar un presupuesto del proyecto
+
+* Pregunta 8: 
+	- Elaborar diagrama lógico de la Red. Cada piso tiene un switch de distribución
+
+* Pregunta 9:
+	- Elaborar el esquema de direccionamiento de la red.
+	- ¿Qué tipo de esquema de direccionamiento propone, basado en el número de servidores y clientes?
+
+* Pregunta 10: 
+	
+
+* Pregunta 11:
+	- Hacer una lista de políticas de seguridad que debe tener la red
+
+* Pregunta 12:
+	
+
+* Pregunta 13:
+	- ¿Qué solución propone para el acceso de WLAN?
+
+* Pregunta 14: 
+	- Hacer un dibujo de la solución que se propone
