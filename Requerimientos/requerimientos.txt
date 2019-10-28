@@ -1,0 +1,35 @@
+Requerimientos Funcionales:
+1. Acceso a la base de datos del CDC en Atlanta Georgia.
+2. Cotizar precios de ISP locales de Guatemala
+3. Minimo de 45MB de ancho de banda redundante y dedicado.
+4. Proveer a todas las universidades y hospitales del pais a la base de datos CDC y a otras bases de datos médicas
+5. Seleccionar qué AWS es el mejor para disponer de un servicio de almacenamiento y acceso a imagenes de alta resolucion.
+6. Red inalambrica robusta para dar acceso a los registro médicos desde cualquier dispositivo (Laptop, tablet o teléfonos inteligentes) (Definir: robusta)
+7. Estandar inalambrico minimo IEEE 802.11 AC alimentados con PoE, con administración centralizada.
+8. Definir las politicas de seguridad correspondientes. (Sobre qué?)
+9. Doctores y enfermeras podran consultar expedientes médicos, radiografías, ltrasonidos, tomografías, resonancias magnéticas, prescripciones y demás información en cualquier momento desde sus clínicas. (En dónde están guardados?)
+10. Conexion con las principales aseguradoras del pais y con CIGNA Global (a priori).
+11. Conexion directa con MEDLINE (ubicado en Illinois).
+12. Por seguridad se debe hacer uso de VPN. Como? que tipo de VPN?
+13. Data center en el primer nivel (tabla).
+14. Para cada recepción de cada piso, otorgar acceso a las recepcionistas al data center
+15. Cada sala de operaciones debe contar con camaras de alta resolucion que permita conexion desde las universidades.
+16. 15 equipos de telepresencia: 9 en salas de operaciones y 6 en salas de conferencias
+17. Definir si utilizar switches de 1GB en cobre o 10GB en fibra. JUSTIFICAR
+18. Esquema de direccionamiento IPv4 pero se considerará esquema de direccionamiento IPv6. Discutar y decidir qué hacer para dejar planificado dicho esquema de direccionamiento IPv6
+19. Cotizacion de equipos e instalacion.
+
+Requerimientos No funcionales:
+1. Acceso a Red Clara, WHO y HINARI. (Es un debemos o podemos?)
+2. Red inalámbrica que sigue las reglas de Baltimore (red inalambrica para visitantes, personal medico y auxiliar y una dedicada exclusivamente al personal administrativo).
+3. Cableado estructurado categoria 6 con puntos certificados.
+4. Estandares ANSI/EIA/TIA 569; 606; 607.
+5. Marca de equipos activos: CISCO, JUNIPER, HUAWEI, MIKROTIK, ALCATEL, NOKIA
+6. Marca de equipos pasivos: ANIXTER, SIEMON, PANDUIT, BELDEN, LEGRAND, LEVITON
+7. Marca de servidores: HP, DELL, LENOVO, QUANTA, INVETEC, WISTRON
+8. No hay límite de precio
+
+Información Adicional:
+1. Proyecto en Guatemala que conecta a todos los hospitales y universidades de Guatemala a la base de datos CDC en Atlanta, Georgia
+2. Red Clara Guatemala cuenta con una amplia red de repositorios y bases de datos médicas.
+3. Las Naciones Unidas tienen en conjunto con WHO la posibilidad de brindar acceso a HINARI, lo cual sería beneficioso a la comunidad médica de Guatemala.

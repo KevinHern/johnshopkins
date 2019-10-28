@@ -1,0 +1,19 @@
+Hospital:
+- Acceso rápido a la base de datos del CDC en Atlanta,Georgia (Estados Unidos):
+	* 45 MB de ancho de banda y redundante
+	* Distancia de separación de 2212.3 km
+
+
+
+Observaciones:
+- Guatemala contará proximamente con un proyecto que interconecta a todos los HOSPITALES y UNIVERSIDADES de GUATEMALA
+	* Podrán accesar a la base de datos del CDC y otras bases de datos
+- Red Clara posee bases de datos + red de repositorios
+- Las Naciones Unidas tiene en conjunto con WHO brindar acceso a Hinari:
+	* Establecido por La Organización Mundial de la Salud
+	* Trabaja con editoriales principales
+	* Permite a los países bajos y medianos ingresos acceder a una de las mayores colecciones del mundo de literatura
+	  biomédica y salud
+	* Cuenta con hasta 15,000 revistas, 60,000 libros y 105 fuentes de información.
+- 
+
