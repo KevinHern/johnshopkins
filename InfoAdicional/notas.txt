@@ -1,19 +1,59 @@
-Hospital:
-- Acceso r�pido a la base de datos del CDC en Atlanta,Georgia (Estados Unidos):
-	* 45 MB de ancho de banda y redundante
-	* Distancia de separaci�n de 2212.3 km
+→ Cloud AWS:
+	* Cloud Amazon Web Services
+	* Software as a Service
+	* Proporciona SaaS, PaaS and IaaS
 
+→ WHO:
+	* World Health Organization
+	* Agencia de las Naciones Unidas que se preocupa por la salud pública internacional
+	* Responsable por:
+		- World Health Report
+		- Worldwide World Health Survey
+		- World Health Day.
 
-
-Observaciones:
-- Guatemala contar� proximamente con un proyecto que interconecta a todos los HOSPITALES y UNIVERSIDADES de GUATEMALA
-	* Podr�n accesar a la base de datos del CDC y otras bases de datos
-- Red Clara posee bases de datos + red de repositorios
-- Las Naciones Unidas tiene en conjunto con WHO brindar acceso a Hinari:
-	* Establecido por La Organizaci�n Mundial de la Salud
+→ HINARI:
+	* Establecido por La Organización Mundial de la Salud
 	* Trabaja con editoriales principales
-	* Permite a los pa�ses bajos y medianos ingresos acceder a una de las mayores colecciones del mundo de literatura
-	  biom�dica y salud
-	* Cuenta con hasta 15,000 revistas, 60,000 libros y 105 fuentes de informaci�n.
-- 
+	* Permite a los países bajos y medianos ingresos acceder a una de las mayores colecciones del mundo de literatura
+	  biomédica y salud
+	* Cuenta con hasta 15,000 revistas, 60,000 libros y 105 fuentes de información.
 
+→ Estándar IEEE 802.11 AC
+	* Wireless networking standard
+	* Providing high-throughput wireless local area networks (WLANs) on the 5 GHz band 
+	* The specification has multi-station throughput of at least 1 gigabit per second (1 Gbit/s) and single-link throughput of at least 500 megabits per second (0.5 Gbit/s)
+	* Mandatory Features:
+		- 800 ns regular guard interval
+		- Binary convolutional coding (BCC)
+		- Single spatial stream
+		- 80 MHz channel bandwidths
+
+→ Estándar IEEE 802.11 AX (más reciente)
+	* Wireless networking standard
+	* Full deployment in late 2019
+	* Designed to operate in all ISM bands between 1 and 6 GHz when they become available for 802.11 use, in addition to the 2.4 and 5 GHz bands already allocated
+
+→ ISM Band
+	* Radio bands (portions of the radio spectrum) reserved internationally for the use of radio frequency (RF) energy for industrial, scientific and medical purposes other than telecommunications
+
+→ CIGNA GLOBAL
+	* Seguro de salud
+
+→ MEDLINE
+	* Proveedor de John Hopkins
+	* Brinda equipo y productos de alta calidad
+
+→ PoE
+	* Power over Ethernet
+	* Technology that lets network cables carry electrical power.
+	* Devices with PoE, only need 1 cable, which is the network cable and provides power
+	* Advantages:
+		- Time and cost savings: by reducing the time and expense of having electrical power cabling installed.  Network cables do not require a qualified electrician to fit them, and can be located anywhere.
+		- Flexibility: Devices can be located anywhere without the need of an electrical outlet
+		- Safety: Designed to protect network equipment from overload, underpowering, or incorrect installation.
+		- Reliability - POE power comes from a central and universally compatible source, rather than a collection of distributed wall adapters
+		- Scalability - having power available on the network means that installation and distribution of network connections is simple and effective
+	* Applications:
+		- VoIP phones
+		- Surveillance Cameras
+		- Access Points
