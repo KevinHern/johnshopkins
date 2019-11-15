@@ -37,7 +37,7 @@
 	- Realizar un presupuesto del proyecto
 
 * Pregunta 8: 
-	- Elaborar diagrama lógico de la Red. Cada piso tiene un switch de distribución
+	- Elaborar diagrama lógico de la Red. Cada piso tiene un switch de distribución (¿?)
 
 * Pregunta 9:
 	- Elaborar el esquema de direccionamiento de la red.

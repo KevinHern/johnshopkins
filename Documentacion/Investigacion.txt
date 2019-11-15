@@ -57,3 +57,5 @@
 		- VoIP phones
 		- Surveillance Cameras
 		- Access Points
+
+* Implementar un Honeypot (servidor carnada)

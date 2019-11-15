@@ -1,24 +1,56 @@
 Requerimientos Funcionales:
 1. Acceso a la base de datos del CDC en Atlanta Georgia.
 2. Cotizar precios de ISP locales de Guatemala
-3. Minimo de 45MB de ancho de banda redundante y dedicado.
+3. Minimo de 45MB de ancho de banda redundante y dedicado. (Dividir el ancho de banda)
 4. Proveer a todas las universidades y hospitales del pais a la base de datos CDC y a otras bases de datos médicas
-5. Seleccionar qué AWS es el mejor para disponer de un servicio de almacenamiento y acceso a imagenes de alta resolucion.
-6. Red inalambrica robusta para dar acceso a los registro médicos desde cualquier dispositivo (Laptop, tablet o teléfonos inteligentes) (Definir: robusta)
+5. Seleccionar qué AWS es el mejor para disponer de un servicio de almacenamiento y acceso a imagenes de alta resolucion. (Espacioso y transferencia)
+6. Red inalambrica robusta para dar acceso a los registro médicos desde cualquier dispositivo (Laptop, tablet o teléfonos inteligentes) (Definir: robusta: 1 tabla con limitantes de redes)
 7. Estandar inalambrico minimo IEEE 802.11 AC alimentados con PoE, con administración centralizada.
 8. Definir las politicas de seguridad correspondientes. (Sobre qué?)
-9. Doctores y enfermeras podran consultar expedientes médicos, radiografías, ltrasonidos, tomografías, resonancias magnéticas, prescripciones y demás información en cualquier momento desde sus clínicas. (En dónde están guardados?)
+
+9. Doctores y enfermeras podran consultar expedientes médicos, radiografías, ultrasonidos, tomografías, resonancias magnéticas, prescripciones y demás información en cualquier momento desde sus clínicas. (En dónde están guardados?)
+- Implementar Web Service → Implementar un servidor → Designar Puertos
+- Implementar DNS
+- Involucrar bases de datos?
+
+- Soporte de 
+Concurrencia
+- Red redundante?
+
 10. Conexion con las principales aseguradoras del pais y con CIGNA Global (a priori).
+- Implementar Web Service → Implementar un servidor → Designar Puertos
+- Implementar DNS
+
+
 11. Conexion directa con MEDLINE (ubicado en Illinois).
+Designar puertos en donde corre la aplicacion?
+
+
 12. Por seguridad se debe hacer uso de VPN. Como? que tipo de VPN?
+
+
 13. Data center en el primer nivel (tabla).
+
+
 14. Para cada recepción de cada piso, otorgar acceso a las recepcionistas al data center
+- Agregar firewall 
+- IP estatica
+
+
 15. Cada sala de operaciones debe contar con camaras de alta resolucion que permita conexion desde las universidades.
+- IP cameras powered by PoE
+
+
 16. Equipo de Telepresencia: 9 para en salas de operaciones y 6 en salas de conferencias
 	16.1 Cotizar
 	16.2 Ver si la red es apta para soportar transmisión de alta resolución en tiempo real
+
+
 17. Definir si utilizar switches de 1GB en cobre o 10GB en fibra. JUSTIFICAR
+
+
 18. Esquema de direccionamiento IPv4 pero se considerará esquema de direccionamiento IPv6. Discutar y decidir qué hacer para dejar planificado dicho esquema de direccionamiento IPv6
+
 19. Cotizacion de equipos e instalacion.
 
 Requerimientos No funcionales:
@@ -36,3 +68,15 @@ Información Adicional:
 1. Proyecto en Guatemala que conecta a todos los hospitales y universidades de Guatemala a la base de datos CDC en Atlanta, Georgia
 2. Red Clara Guatemala cuenta con una amplia red de repositorios y bases de datos médicas.
 3. Las Naciones Unidas tienen en conjunto con WHO la posibilidad de brindar acceso a HINARI, lo cual sería beneficioso a la comunidad médica de Guatemala.
+
+
+- Mapa calor Wifi
+- Telepresencia != videollamada
+- Administración de red:
+	* Usar diferentes IPs para diferentes cosas
+- Usar VLAN
+- Canales WIFI y password y vlan y direccionamiento
+
+- Soporte, licenciaamiento. 
+- Equipos, línea
+- Ver Cisco
