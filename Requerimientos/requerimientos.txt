@@ -54,6 +54,7 @@ Designar puertos en donde corre la aplicacion?
 19. Cotizacion de equipos e instalacion.
 
 Requerimientos No funcionales:
+Estándar inalámbrico mínimo IEEE 801.11 AC,
 1. Acceso a Red Clara (Es un debemos o podemos?, es red claro?)
 2. Las Naciones Unidas con WHO, pueden dar acceso a HINARI. (Es un debemos o podemos?) 
 2. Red inalámbrica que sigue las reglas de Baltimore (red inalambrica para visitantes, personal medico y auxiliar y una dedicada exclusivamente al personal administrativo).
